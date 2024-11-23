@@ -1,0 +1,8 @@
+- [[Paper Title]]
+- Full name of the student
+- [[Abstract]]
+- [[Section 1: Introduction]]
+- [[Section 2: Background]]
+- [[Section 3: Categorization and Criteria]]
+- [[Section 4: Analysis]]
+- [[Section 5: New research directions]]

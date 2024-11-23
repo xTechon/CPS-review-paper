@@ -1,0 +1,12 @@
+- [[Paper Due Date]]
+- [[Paper Main Topic]]
+- [[Paper Sub Topic / Constraint]]
+- [Review Paper Format](https://www.ieee.org/conferences/publishing/templates.html)
+- Document must be in PDF form
+- Analyze at least 10 recent academic research papers
+	- Should not include other review/SoK papers
+	- Should not include background papers
+- No longer than 6 pages
+- [[Figure/table constraints]]
+- [[Paper Template]]
+- ![Short_Review_Example.pdf](../assets/Short_Review_Example_1732329906418_0.pdf)
