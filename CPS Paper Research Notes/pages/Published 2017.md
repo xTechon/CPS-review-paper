@@ -1,0 +1,3 @@
+- Description: papers published in 2017
+- ![Classification of Side Channel Attacks on Mobile Devices](../assets/Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080639_0.pdf)
+-

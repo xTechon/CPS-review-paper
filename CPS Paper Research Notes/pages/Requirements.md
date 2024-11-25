@@ -1,5 +1,6 @@
-- [[Paper Due Date]]
-- [[Paper Main Topic]]
+- {{embed [[Paper Due Date]] }}
+  id:: 6742639f-7573-43e2-bfca-51d6f0ba91e4
+- {{embed [[Paper Main Topic]] }}
 - [[Paper Sub Topic / Constraint]]
 - [Review Paper Format](https://www.ieee.org/conferences/publishing/templates.html)
 - Document must be in PDF form
