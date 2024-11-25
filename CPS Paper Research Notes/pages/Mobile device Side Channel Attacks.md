@@ -2,5 +2,9 @@
   title:: Mobile device Side Channel Attacks
 	- Lists out side channel attacks on mobile devices
 	- [[Published 2017]]
+	- Two axes:
+		- Active V.S. Passive
+		- Invasive V.S. Semi-invasive V.S. Non-invasive
+	-
 -
 -

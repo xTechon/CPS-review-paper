@@ -11,3 +11,4 @@
 - [[Figure/table constraints]]
 - [[Paper Template]]
 - ![Short_Review_Example.pdf](../assets/Short_Review_Example_1732329906418_0.pdf)
+- List of all GS main topics: [Google Sheets](https://docs.google.com/spreadsheets/d/1gKJ9oprURnRMVXnCIC_AqbY_YiAwpjhqjrHH1-CHucs/edit?gid=0#gid=0)
