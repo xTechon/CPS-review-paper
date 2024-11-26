@@ -1,5 +1,10 @@
 - Possible Topics
 	- [[Smart Home Systems]]
 	- [[Mobile device Side Channel Attacks]]
+	- [[Industrial IoT]]
+	- [[Computer Emissions]]
+	- [[Radio Transceivers]]
 - [[Papers from the last 5 years]]
+-
+-
 -

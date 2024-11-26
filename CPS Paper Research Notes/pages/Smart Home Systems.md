@@ -1,0 +1,11 @@
+- ![Smart Home Privacy Protection Methods against A passive Wireless Snooping Side-Cannel Attack](../assets/sensors-22-08564-v3_1732641062625_0.pdf) #[[Published 2022]] #[[Review Paper]]
+	- [Source](https://www.mdpi.com/1424-8220/22/21/8564)
+- ![Light Ears: Information Leakage via Smart Lights](../assets/3351256_1732641926328_0.pdf) #[[Published 2019]]
+	- [Source](https://dl.acm.org/doi/abs/10.1145/3351256)
+	- 3 attacks listed in paper
+		- 1st two infer users' audio/video playback using systematic observation and analysis of the multimedia-visualization functionality of smart light bulbs
+		- 3rd attack uses the infrared capabilities of smart light bulbs to create a covert-channel to ex-filtrate user's private data out of secured home or office network.
+- ![Security Concerns in IoT Light Bulbs: Investigating Covert Channels](../assets/2408.14613v1_1732656803976_0.pdf) #[[Unpublished]] #[[Review Paper]]
+	- [Source](https://arxiv.org/abs/2408.14613)
+- ![Wireless Traffic Analysis Based SCA and CM in Smart Home](../assets/3603165.3607446_1732657076087_0.pdf) #[[Published 2023]]
+	- [Source](https://dl.acm.org/doi/abs/10.1145/3603165.3607446)

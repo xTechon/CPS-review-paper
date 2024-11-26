@@ -1,0 +1,2 @@
+- ![SC Vulnerability on Modern Computers by Exploiting EM Emanations from the Power Management Unit](../assets/A_New_Side-Channel_Vulnerability_on_Modern_Computers_by_Exploiting_Electromagnetic_Emanations_from_the_Power_Management_Unit_1732659171279_0.pdf) #[[Published 2020]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9065580)

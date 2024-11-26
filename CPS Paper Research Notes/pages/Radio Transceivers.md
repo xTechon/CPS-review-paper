@@ -1,0 +1,2 @@
+- ![Screaming Channels: When EM SC Meet Radio Transceivers](../assets/3243734.3243802_1732659343336_0.pdf) #[[Published 2018]]
+	- [Source](https://dl.acm.org/doi/abs/10.1145/3243734.3243802)

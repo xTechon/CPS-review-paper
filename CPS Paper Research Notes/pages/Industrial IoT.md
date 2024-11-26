@@ -1,0 +1,2 @@
+- ![MAGLeak A Learning Based Side Channel Attack for Password Recognition with Multiple Sensors in IIoT Environment](../assets/MAGLeak_A_Learning-Based_Side-Channel_Attack_for_Password_Recognition_With_Multiple_Sensors_in_IIoT_Environment_1732658603080_0.pdf)
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9298946)
