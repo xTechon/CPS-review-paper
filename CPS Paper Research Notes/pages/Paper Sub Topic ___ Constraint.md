@@ -4,6 +4,7 @@
 	- [[Industrial IoT]]
 	- [[Computer Emissions]]
 	- [[Radio Transceivers]]
+	- [[Embedded Devices]]
 - [[Papers from the last 5 years]]
 -
 -

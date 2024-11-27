@@ -9,3 +9,9 @@
 	- [Source](https://arxiv.org/abs/2408.14613)
 - ![Wireless Traffic Analysis Based SCA and CM in Smart Home](../assets/3603165.3607446_1732657076087_0.pdf) #[[Published 2023]]
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3603165.3607446)
+- ![Signal Emulation Attack and Defense for Smart Home IoT](../assets/Signal_Emulation_Attack_and_Defense_for_Smart_Home_IoT_1732676954203_0.pdf) #[[Published 2022]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9763029)
+	- This is an EM injection attack, out of scope for the research : (
+- Many articles are referencing [[ZigBee]] signals and packets should research this
+- ![WazaBee attacking Zigbee networks by diverting Bluetooth Low Energy chips](../assets/WazaBee_attacking_Zigbee_networks_by_diverting_Bluetooth_Low_Energy_chips_1732678115910_0.pdf)#[[Published 2021]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9505165)

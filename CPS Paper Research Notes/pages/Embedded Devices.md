@@ -1,0 +1,4 @@
+- ![SCNIFFER_Low-Cost_Automated_Efficient_Electromagnetic_Side-Channel_Sniffing.pdf](../assets/SCNIFFER_Low-Cost_Automated_Efficient_Electromagnetic_Side-Channel_Sniffing_1732678747799_0.pdf) #[[Published 2022]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9201569)
+- ![An Efficiency Evaluation of Far-Field Electromagnetic Deep Learning Side-Channel Attacks in Controlled Environments](../assets/FULLTEXT01_1732678955999_0.pdf) #[[Published 2022]]
+	- [Source](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1694306&dswid=-3599)

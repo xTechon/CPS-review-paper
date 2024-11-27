@@ -1,0 +1,2 @@
+file:: [Signal_Emulation_Attack_and_Defense_for_Smart_Home_IoT_1732676954203_0.pdf](../assets/Signal_Emulation_Attack_and_Defense_for_Smart_Home_IoT_1732676954203_0.pdf)
+file-path:: ../assets/Signal_Emulation_Attack_and_Defense_for_Smart_Home_IoT_1732676954203_0.pdf
