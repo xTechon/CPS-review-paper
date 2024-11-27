@@ -1,7 +1,7 @@
 title:: Mobile device Side Channel Attacks
 
 - ![Classification of Side Channel Attacks on Mobile Devices](../assets/Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080640_0.pdf) #[[Published 2017]] #[[Review Paper]]
-	- [Source](https://ieeexplore.ieee.org/abstract/document/8141883)
+	- [Source](https://ieeexplore.ieee.org/abstract/document/8141883) Not working : (
 	- Lists out side channel attacks on mobile devices
 	- Q: Summarize the classification system that is proposed in the PDF that I have attached here
 	  collapsed:: true
@@ -68,8 +68,7 @@ title:: Mobile device Side Channel Attacks
 		- **Bojinov et al. [129]** - This work explores mobile device identification via sensor fingerprinting, which can relate to electromagnetic properties.
 		- **Michalevsky et al. [137]** - This research involves recognizing speech from gyroscope signals, which may touch upon electromagnetic analysis indirectly.
 		- **Gruss et al. [24]** - This paper discusses the implications of electromagnetic analysis in the context of microarchitectural attacks.
-	- Conclusion: This source is not very helpful : (
+	- My conclusion: This source is not very helpful : (
 - ![Side-channel_attacks_on_mobile_and_wearable_systems.pdf](../assets/Side-channel_attacks_on_mobile_and_wearable_systems_1732657718701_0.pdf) #[[Published 2016]] #[[Conference Paper]]
-	- [Source](https://ieeexplore.ieee.org/abstract/document/7444764)
--
--
+	- [Source](https://ieeexplore.ieee.org/abstract/document/7444764) Not working : (
+	- Paper also not useful, it just covers attacks using the different sensors on already compromised mobile devices and smart watches for eavesdropping

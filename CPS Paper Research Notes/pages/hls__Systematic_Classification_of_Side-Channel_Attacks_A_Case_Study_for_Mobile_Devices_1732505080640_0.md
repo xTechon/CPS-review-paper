@@ -1,0 +1,2 @@
+file:: [Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080640_0.pdf](../assets/Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080640_0.pdf)
+file-path:: ../assets/Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080640_0.pdf
