@@ -1,7 +1,7 @@
 title:: Mobile device Side Channel Attacks
 
 - ![Classification of Side Channel Attacks on Mobile Devices](../assets/Systematic_Classification_of_Side-Channel_Attacks_A_Case_Study_for_Mobile_Devices_1732505080640_0.pdf) #[[Published 2017]] #[[Review Paper]]
-	- [Source](https://ieeexplore.ieee.org/abstract/document/8141883) Not working : (
+	- [Source](https://ieeexplore.ieee.org/abstract/document/8141882)
 	- Lists out side channel attacks on mobile devices
 	- Q: Summarize the classification system that is proposed in the PDF that I have attached here
 	  collapsed:: true
@@ -70,5 +70,5 @@ title:: Mobile device Side Channel Attacks
 		- **Gruss et al. [24]** - This paper discusses the implications of electromagnetic analysis in the context of microarchitectural attacks.
 	- My conclusion: This source is not very helpful : (
 - ![Side-channel_attacks_on_mobile_and_wearable_systems.pdf](../assets/Side-channel_attacks_on_mobile_and_wearable_systems_1732657718701_0.pdf) #[[Published 2016]] #[[Conference Paper]]
-	- [Source](https://ieeexplore.ieee.org/abstract/document/7444764) Not working : (
+	- [Source](https://ieeexplore.ieee.org/abstract/document/7444763)
 	- Paper also not useful, it just covers attacks using the different sensors on already compromised mobile devices and smart watches for eavesdropping
