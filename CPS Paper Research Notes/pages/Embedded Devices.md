@@ -2,3 +2,7 @@
 	- [Source](https://ieeexplore.ieee.org/abstract/document/9201569)
 - ![An Efficiency Evaluation of Far-Field Electromagnetic Deep Learning Side-Channel Attacks in Controlled Environments](../assets/FULLTEXT01_1732678955999_0.pdf) #[[Published 2022]]
 	- [Source](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1694306&dswid=-3599)
+- ![Killing_EM_Side-Channel_Leakage_at_its_Source.pdf](../assets/Killing_EM_Side-Channel_Leakage_at_its_Source_1732742977633_0.pdf) #[[Published 2020]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9184657)
+- ![Electromagnetic Side Channel Information Leakage Created by Execution of Series of Instructions in a Computer Processor](../assets/Electromagnetic_Side_Channel_Information_Leakage_Created_by_Execution_of_Series_of_Instructions_in_a_Computer_Processor_1732745649084_0.pdf)
+	- [Source](https://ieeexplore.ieee.org/document/8763980)

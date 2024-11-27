@@ -1,17 +1,26 @@
+- [[Actuators]]
+- [[Sensors]]
+- [[Communication Protocols]]
 - ![Smart Home Privacy Protection Methods against A passive Wireless Snooping Side-Cannel Attack](../assets/sensors-22-08564-v3_1732641062625_0.pdf) #[[Published 2022]] #[[Review Paper]]
 	- [Source](https://www.mdpi.com/1424-8220/22/21/8564)
-- ![Light Ears: Information Leakage via Smart Lights](../assets/3351256_1732641926328_0.pdf) #[[Published 2019]]
+- ![Light Ears: Information Leakage via Smart Lights](../assets/3351256_1732641926328_0.pdf) #[[Published 2019]] #Actuators
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3351256)
 	- 3 attacks listed in paper
 		- 1st two infer users' audio/video playback using systematic observation and analysis of the multimedia-visualization functionality of smart light bulbs
 		- 3rd attack uses the infrared capabilities of smart light bulbs to create a covert-channel to ex-filtrate user's private data out of secured home or office network.
 - ![Security Concerns in IoT Light Bulbs: Investigating Covert Channels](../assets/2408.14613v1_1732656803976_0.pdf) #[[Unpublished]] #[[Review Paper]]
 	- [Source](https://arxiv.org/abs/2408.14613)
-- ![Wireless Traffic Analysis Based SCA and CM in Smart Home](../assets/3603165.3607446_1732657076087_0.pdf) #[[Published 2023]]
+- ![Wireless Traffic Analysis Based SCA and CM in Smart Home](../assets/3603165.3607446_1732657076087_0.pdf) #[[Published 2023]] #[[Communication Protocols]]
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3603165.3607446)
 - ![Signal Emulation Attack and Defense for Smart Home IoT](../assets/Signal_Emulation_Attack_and_Defense_for_Smart_Home_IoT_1732676954203_0.pdf) #[[Published 2022]]
 	- [Source](https://ieeexplore.ieee.org/abstract/document/9763029)
 	- This is an EM injection attack, out of scope for the research : (
 - Many articles are referencing [[ZigBee]] signals and packets should research this
-- ![WazaBee attacking Zigbee networks by diverting Bluetooth Low Energy chips](../assets/WazaBee_attacking_Zigbee_networks_by_diverting_Bluetooth_Low_Energy_chips_1732678115910_0.pdf)#[[Published 2021]]
+- ![WazaBee attacking Zigbee networks by diverting Bluetooth Low Energy chips](../assets/WazaBee_attacking_Zigbee_networks_by_diverting_Bluetooth_Low_Energy_chips_1732678115910_0.pdf) #[[Published 2021]] #[[Communication Protocols]]
 	- [Source](https://ieeexplore.ieee.org/abstract/document/9505165)
+- ![Smart Home Systems Overview and Comparative Analysis](../assets/Smart_Home_Systems_Overview_and_Comparative_Analysis_1732736637149_0.pdf) #[[Published 2018]] #[[Review Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/8718722)
+- ![Don’t Kick Over the Beehive: Attacks and Security Analysis on Zigbee](../assets/3548606.3560703_1732737205683_0.pdf) #[[Published 2022]] #[[Communication Protocols]]
+	- [Source](https://dl.acm.org/doi/abs/10.1145/3548606.3560703)
+- ![Side channel attacks on smart home systems A short overview](../assets/Side_channel_attacks_on_smart_home_systems_A_short_overview_1732737614044_0.pdf) #[[Published 2017]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/8217429)

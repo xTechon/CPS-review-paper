@@ -1,0 +1,11 @@
+- Light Switchs
+- Light Bulbs
+- Garage Doors
+- Locks
+- Speaker Systems
+- Fans
+- Climate Control
+- Auto mobiles
+- TVs
+- Outlet Switches (Smart Plugs)
+-

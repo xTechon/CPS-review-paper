@@ -1,0 +1,9 @@
+- [[Wi-Fi]]
+- [[Thread]] - Same band as Wi-Fi but creates seperate mesh network, no defined App layer
+- [[Matter]]
+- [[ZigBee]] - specific to smart homes and well established
+- [[Amazon Sidewalk]]
+- [[Z-Wave]]
+- [[Bluetooth LE]]
+- [[Bluetooth Mesh]]
+-

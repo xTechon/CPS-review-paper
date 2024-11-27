@@ -1,0 +1,2 @@
+file:: [Smart_Home_Systems_Overview_and_Comparative_Analysis_1732736637149_0.pdf](../assets/Smart_Home_Systems_Overview_and_Comparative_Analysis_1732736637149_0.pdf)
+file-path:: ../assets/Smart_Home_Systems_Overview_and_Comparative_Analysis_1732736637149_0.pdf

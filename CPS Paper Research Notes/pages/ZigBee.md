@@ -1,3 +1,5 @@
 - [Zigbee Wireless Networking Book](https://books.google.com/books?hl=en&lr=&id=up8Oa7456I8C&oi=fnd&pg=PP1&dq=zigbee&ots=IHEq8WwJBu&sig=wPzYN5x0F2hOE_iwbuL6s0ddOC0#v=onepage&q=zigbee&f=false) #[[Published 2008]] #Book
 - What is ZigBee?
-	- Compared to other wireless protocols Zigbee aims for lower data rates, and is designed to fit on lower end microcontrollers. [Page 1 from book]
+	- Compared to other wireless protocols Zigbee aims for lower data rates, and is designed to fit on lower end micro controllers. [Page 1 from book]
+	- Zigbee is capable of mesh networking, where any ZigBee node can route to any other ZigBee node in the network. [Page 5 from book]
+	- Zigbee uses AES-128 bit encryption [Page 8 from book] as of 2008.
