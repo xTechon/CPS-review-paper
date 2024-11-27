@@ -1,0 +1,3 @@
+- [Zigbee Wireless Networking Book](https://books.google.com/books?hl=en&lr=&id=up8Oa7456I8C&oi=fnd&pg=PP1&dq=zigbee&ots=IHEq8WwJBu&sig=wPzYN5x0F2hOE_iwbuL6s0ddOC0#v=onepage&q=zigbee&f=false) #[[Published 2008]] #Book
+- What is ZigBee?
+	- Compared to other wireless protocols Zigbee aims for lower data rates, and is designed to fit on lower end microcontrollers. [Page 1 from book]

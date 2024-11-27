@@ -1,3 +1,3 @@
 - ![A survey of EM side-channel attacks and discussion on their case-progressing potential for digital forensics](../assets/1-s2.0-S1742287618303840-main_1732658365926_0.pdf) #[[Published 2019]] #[[Review Paper]]
 	- [Source](https://www.sciencedirect.com/science/article/abs/pii/S1742287618303840)
--
+- [[ZigBee]]
