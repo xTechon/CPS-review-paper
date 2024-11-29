@@ -1,0 +1,2 @@
+file:: [Side_channel_attacks_on_smart_home_systems_A_short_overview_1732737614044_0.pdf](../assets/Side_channel_attacks_on_smart_home_systems_A_short_overview_1732737614044_0.pdf)
+file-path:: ../assets/Side_channel_attacks_on_smart_home_systems_A_short_overview_1732737614044_0.pdf
