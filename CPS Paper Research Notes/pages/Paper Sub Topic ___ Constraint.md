@@ -5,6 +5,7 @@
 	- [[Computer Emissions]]
 	- [[Radio Transceivers]]
 	- [[Embedded Devices]]
+	- [[Air-Gapped Computing]]
 - [[Papers from the last 5 years]]
 -
 -

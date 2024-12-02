@@ -1,0 +1,24 @@
+- [Dr. Mordechai Guri's Research](https://www.covertchannels.com/) He specializes on ex-filtration attacks on Air Gapped devices
+- ![SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped Computing Devices via mmWave Sensing](../assets/SpiralSpy_LI_DOA04112021_VOR_1733174037877_0.pdf) #[[Published 2022]]
+	- [Source](https://www.research.ed.ac.uk/en/publications/spiralspy-exploring-a-stealthy-and-practical-covert-channel-to-at)
+- ![NoiseHopper: Emission Hopping Air-Gap Covert Side Channel with Lower Probability of Detection](../assets/NoiseHopper_Emission_Hopping_Air-Gap_Covert_Side_Channel_with_Lower_Probability_of_Detection_1733174549623_0.pdf) #[[Published 2024]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/10545402)
+- ![A Survey on Air-Gap Attacks: Fundamentals, Transport Means, Attack Scenarios and Challenges](../assets/sensors-23-03215-v2_1733177438418_0.pdf) #[[Published 2023]] #[[Review Paper]]
+	- [Source](https://www.mdpi.com/1424-8220/23/6/3215)
+- ![LANTENNA: Exfiltrating Data from Air-Gapped Networks via Ethernet Cables Emission](../assets/LANTENNA_Exfiltrating_Data_from_Air-Gapped_Networks_via_Ethernet_Cables_Emission_1733177559020_0.pdf) #[[Published 2021]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/document/9529607)
+- ![BitJabber: The Worlds Fastest Electromagnetic Covert Channel](../assets/BitJabber_The_Worlds_Fastest_Electromagnetic_Covert_Channel_1733178237057_0.pdf) #[[Published 2020]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9300268)
+- ![SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables](../assets/SATAn_Air-Gap_Exfiltration_Attack_via_Radio_Signals_From_SATA_Cables_1733179883744_0.pdf) #[[Published 2022]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9851978)
+- ![ETHERLED: Sending Covert Morse Signals from Air-Gapped Devices via Network Card NIC LEDs](../assets/ETHERLED_Sending_Covert_Morse_Signals_from_Air-Gapped_Devices_via_Network_Card_NIC_LEDs_1733181539518_0.pdf) #[[Published 2022]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9850284)
+- ![AIR-FI: Leaking Data From Air-Gapped Computers Using Wi-Fi Frequencies](../assets/AIR-FI_Leaking_Data_From_Air-Gapped_Computers_Using_Wi-Fi_Frequencies_1733181714792_0.pdf) #[[Published 2022]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9808153)
+- ![PowerHammer: Exfiltrating Data From Air-Gapped Computers Through Power Lines](../assets/PowerHammer_Exfiltrating_Data_From_Air-Gapped_Computers_Through_Power_Lines_1733181907875_0.pdf) #[[Published 2019]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/8894040)
+- ![USBee: Air-gap covert-channel via electromagnetic emission from USB](../assets/USBee_Air-gap_covert-channel_via_electromagnetic_emission_from_USB_1733182108982_0.pdf) #[[Published 2016]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/7906972)
+- ![PIXHELL Attack Leaking Sensitive Information from Air-Gap Computers via Singing Pixels](../assets/PIXHELL_Attack_Leaking_Sensitive_Information_from_Air-Gap_Computers_via_Singing_Pixels_1733182352555_0.pdf) #[[Published 2024]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/10633404)
+	- Uses Sound : (

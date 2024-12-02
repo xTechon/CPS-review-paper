@@ -1,0 +1,2 @@
+file:: [NoiseHopper_Emission_Hopping_Air-Gap_Covert_Side_Channel_with_Lower_Probability_of_Detection_1733174549623_0.pdf](../assets/NoiseHopper_Emission_Hopping_Air-Gap_Covert_Side_Channel_with_Lower_Probability_of_Detection_1733174549623_0.pdf)
+file-path:: ../assets/NoiseHopper_Emission_Hopping_Air-Gap_Covert_Side_Channel_with_Lower_Probability_of_Detection_1733174549623_0.pdf
