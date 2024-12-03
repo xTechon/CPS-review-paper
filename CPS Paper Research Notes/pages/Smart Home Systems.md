@@ -4,6 +4,7 @@
 - ![Smart Home Privacy Protection Methods against A passive Wireless Snooping Side-Cannel Attack](../assets/sensors-22-08564-v3_1732641062625_0.pdf) #[[Published 2022]] #[[Review Paper]]
 	- [Source](https://www.mdpi.com/1424-8220/22/21/8564)
 - ![Light Ears: Information Leakage via Smart Lights](../assets/3351256_1732641926328_0.pdf) #[[Published 2019]] #Actuators
+  collapsed:: true
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3351256)
 	- 3 attacks listed in paper
 		- 1st two infer users' audio/video playback using systematic observation and analysis of the multimedia-visualization functionality of smart light bulbs
@@ -43,3 +44,8 @@
 	-
 - ![Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels](../assets/3583120.3586959_1733193845587_0.pdf)
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3583120.3586959)
+- ![Detecting the Presence of Electronic Devices in Smart Homes Using Harmonic Radar Technology](../assets/remotesensing-14-00327-v2_1733255571344_0.pdf) #[[Published 2022]]
+	- [Source](https://www.mdpi.com/2072-4292/14/2/327)
+- ![Enhanced_Indoor_Multi-Target_Counting_Based_on_Micro-Doppler_Features_with_24GHz_Radar.pdf](../assets/Enhanced_Indoor_Multi-Target_Counting_Based_on_Micro-Doppler_Features_with_24GHz_Radar_1733260929097_0.pdf)
+	- [Source](https://ieeexplore.ieee.org/abstract/document/10642879)
+-
