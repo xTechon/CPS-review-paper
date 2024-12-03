@@ -19,6 +19,9 @@
 	- [Source](https://ieeexplore.ieee.org/abstract/document/8894040)
 - ![USBee: Air-gap covert-channel via electromagnetic emission from USB](../assets/USBee_Air-gap_covert-channel_via_electromagnetic_emission_from_USB_1733182108982_0.pdf) #[[Published 2016]] #[[Conference Paper]]
 	- [Source](https://ieeexplore.ieee.org/abstract/document/7906972)
-- ![PIXHELL Attack Leaking Sensitive Information from Air-Gap Computers via Singing Pixels](../assets/PIXHELL_Attack_Leaking_Sensitive_Information_from_Air-Gap_Computers_via_Singing_Pixels_1733182352555_0.pdf) #[[Published 2024]]
+- ![PIXHELL: Attack Leaking Sensitive Information from Air-Gap Computers via Singing Pixels](../assets/PIXHELL_Attack_Leaking_Sensitive_Information_from_Air-Gap_Computers_via_Singing_Pixels_1733182352555_0.pdf) #[[Published 2024]]
 	- [Source](https://ieeexplore.ieee.org/abstract/document/10633404)
 	- Uses Sound : (
+- ![HOTSPOT: Crossing the Air-Gap Between Isolated PCs and Nearby Smartphones Using Temperature](../assets/HOTSPOT_Crossing_the_Air-Gap_Between_Isolated_PCs_and_Nearby_Smartphones_Using_Temperature_1733192853836_0.pdf) #[[Published 2019]] #[[Conference Paper]]
+	- [Source](https://ieeexplore.ieee.org/abstract/document/9108874)
+- [Source](https://www.sciencedirect.com/science/article/abs/pii/S1389041718305679)

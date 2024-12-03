@@ -23,6 +23,7 @@
 - ![Don’t Kick Over the Beehive: Attacks and Security Analysis on Zigbee](../assets/3548606.3560703_1732737205683_0.pdf) #[[Published 2022]] #[[Communication Protocols]]
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3548606.3560703)
 - ![Side channel attacks on smart home systems A short overview](../assets/Side_channel_attacks_on_smart_home_systems_A_short_overview_1732737614044_0.pdf) #[[Published 2017]] #[[Conference Paper]]
+  collapsed:: true
 	- [Source](https://ieeexplore.ieee.org/abstract/document/8217429)
 	- Lists Side Channel Attack Categories
 	- Data Privacy Protection in two Major categories:
@@ -40,3 +41,5 @@
 	-
 	-
 	-
+- ![Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels](../assets/3583120.3586959_1733193845587_0.pdf)
+	- [Source](https://dl.acm.org/doi/abs/10.1145/3583120.3586959)
