@@ -4,7 +4,6 @@
 - ![Smart Home Privacy Protection Methods against A passive Wireless Snooping Side-Cannel Attack](../assets/sensors-22-08564-v3_1732641062625_0.pdf) #[[Published 2022]] #[[Review Paper]]
 	- [Source](https://www.mdpi.com/1424-8220/22/21/8564)
 - ![Light Ears: Information Leakage via Smart Lights](../assets/3351256_1732641926328_0.pdf) #[[Published 2019]] #Actuators
-  collapsed:: true
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3351256)
 	- 3 attacks listed in paper
 		- 1st two infer users' audio/video playback using systematic observation and analysis of the multimedia-visualization functionality of smart light bulbs
@@ -46,6 +45,10 @@
 	- [Source](https://dl.acm.org/doi/abs/10.1145/3583120.3586959)
 - ![Detecting the Presence of Electronic Devices in Smart Homes Using Harmonic Radar Technology](../assets/remotesensing-14-00327-v2_1733255571344_0.pdf) #[[Published 2022]]
 	- [Source](https://www.mdpi.com/2072-4292/14/2/327)
-- ![Enhanced_Indoor_Multi-Target_Counting_Based_on_Micro-Doppler_Features_with_24GHz_Radar.pdf](../assets/Enhanced_Indoor_Multi-Target_Counting_Based_on_Micro-Doppler_Features_with_24GHz_Radar_1733260929097_0.pdf)
+- ![Enhanced Indoor Multi-Target Counting Based on Micro-Doppler Features with 24GHz Radar](../assets/Enhanced_Indoor_Multi-Target_Counting_Based_on_Micro-Doppler_Features_with_24GHz_Radar_1733260929097_0.pdf) #[[Published 2024]] #[[Conference Paper]]
 	- [Source](https://ieeexplore.ieee.org/abstract/document/10642879)
+- ![HOMESPY:  the invisible sniffer of infrared remote control of smart TVs](../assets/usenixsecurity23-huang_1733346018950_0.pdf) #[[Published 2023]]
+	- [Source](https://dl.acm.org/doi/10.5555/3620237.3620492)
+- ![Precise Wireless Camera Localization Leveraging Traffic-Aided Spatial Analysis](../assets/Precise_Wireless_Camera_Localization_Leveraging_Traffic-Aided_Spatial_Analysis_1733348492205_0.pdf) #[[Published 2023]]
+	- [Source](https://ieeexplore.ieee.org/document/10319073)
 -
