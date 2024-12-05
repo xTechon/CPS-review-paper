@@ -2,6 +2,7 @@
   id:: 6742639f-7573-43e2-bfca-51d6f0ba91e4
 - {{embed [[Paper Main Topic]] }}
 - [[Paper Sub Topic / Constraint]]
+- {{embed ((67520692-2f56-4e3f-9a59-b5ba52f5c03f))}}
 - [Review Paper Format](https://www.ieee.org/conferences/publishing/templates.html)
 - Document must be in PDF form
 - Analyze at least 10 recent academic research papers

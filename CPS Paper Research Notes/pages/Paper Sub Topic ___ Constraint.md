@@ -1,5 +1,8 @@
+- Selected Topic:
+  id:: 67520692-2f56-4e3f-9a59-b5ba52f5c03f
+	- Electromagnetic Side Channel attacks in IoT devices for Smart Homes
 - Possible Topics
-	- [[Smart Home Systems]]
+	- [[Smart Home Systems Research]]
 	- [[Mobile device Side Channel Attacks]]
 	- [[Industrial IoT]]
 	- [[Computer Emissions]]
@@ -7,6 +10,7 @@
 	- [[Embedded Devices]]
 	- [[Air-Gapped Computing]]
 - [[Papers from the last 5 years]]
+-
 -
 -
 -

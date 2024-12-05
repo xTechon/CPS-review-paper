@@ -6,4 +6,5 @@
 - [[Z-Wave]]
 - [[Bluetooth LE]]
 - [[Bluetooth Mesh]]
+- [[SmartCfg]]
 -
