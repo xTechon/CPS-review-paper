@@ -339,12 +339,10 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? false
+ :graph/settings {:journal? true
  :orphan-pages? false
  :builtin-pages? false
- :excluded-pages? false}
- :graph/forcesettings {:link-dist 180
- :charge-strength -700}
+ :excluded-pages? true}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

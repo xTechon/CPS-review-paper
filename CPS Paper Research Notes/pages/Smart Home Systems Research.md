@@ -26,20 +26,9 @@
 - [[Paper: Intercepting Bluetooth Traffic from Wearable Health Devices]]
 - [[Paper: ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes]]
 - [[Paper: BehavIoT: Measuring Smart Home IoT Behavior Using Network-Inferred Behavior Models]]
-- ![FindSpy: A Wireless Camera Detection System Based on Pre-Trained Transformers](../assets/FindSpy_A_Wireless_Camera_Detection_System_Based_on_Pre-Trained_Transformers_1733447753848_0.pdf) #[[Published 2023]]
-	- [Source](https://ieeexplore.ieee.org/document/10218088)
-	- References:
-		- ((675237cc-9803-4090-9ceb-375e1c1c6c49))
-- ![DeepDeSpy: A Deep Learning-Based Wireless Spy Camera Detection System](../assets/DeepDeSpy_A_Deep_Learning-Based_Wireless_Spy_Camera_Detection_System_1733447797731_0.pdf) #[[Published 2021]]
-	- [Source](https://ieeexplore.ieee.org/document/9582812)
-	- References:
-		- ((675237cc-9803-4090-9ceb-375e1c1c6c49))
-- ![Extended Functionality Attacks on IoT Devices: The Case of Smart Lights](../assets/Extended_Functionality_Attacks_on_IoT_Devices_The_Case_of_Smart_Lights_1733448079900_0.pdf) #[[Published 2016]]
-	- [Source](https://ieeexplore.ieee.org/document/7467343)
-	- Use as a foundational to find more on smart lights
-- ![IoTAthena Unveiling IoT Device Activities From Network Traffic](../assets/IoTAthena_Unveiling_IoT_Device_Activities_From_Network_Traffic_1733448411766_0.pdf) #[[Published 2021]]
-  id:: 67525211-cdbf-42dc-b162-804cb0746022
-  collapsed:: true
-	- [Source](https://ieeexplore.ieee.org/document/9504600)
+- [[Paper: FindSpy: Wireless Camera Detection System]]
+- [[Paper: DeepDeSpy: Deep Learing-Based Wireless Spy Cam Detection System]]
+- [[Paper: Ext. Functionality Atks on IoT Devs: Case of Smart Lights]]
+- [[Paper: IoTAthena: Unveiling IoT Device Activities From Network Traffic]]
 - [Smart Tracer Source](https://ieeexplore.ieee.org/document/10229163) relates to the Case of Smart Lights
--
+- [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]

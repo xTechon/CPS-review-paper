@@ -1,9 +1,10 @@
-- {{embed ((6750e67e-88e2-4331-85a8-83c93fe4e11c))}}
-- {{embed ((674750d7-20fb-464d-be43-2a16b9f43eb7))}}
-- {{embed ((6750e67e-5a64-4a74-bb43-c5f24612e24c))}}
-- {{embed ((675222c5-5e85-447c-aa6f-493760c98559))}}
-- {{embed ((6752233a-d78f-4343-b732-56bf2d46faa1))}}
-- {{embed ((675237cc-9803-4090-9ceb-375e1c1c6c49))}}
-- {{embed ((67523c2f-21d2-4137-8346-290e872c6bb6))}}
-- {{embed ((67525211-cdbf-42dc-b162-804cb0746022))}}
+- {{embed [[Paper: HomeSpy: Sniffer of IR Remote Control of Smart TVs]]}}
+- {{embed [[Paper: Light Ears: Info Leakage via Smart Lights]]}}
+- {{embed [[Paper: Wireless Camera Localization Leveraging Traffic-Aided Spatial Analysis]]}}
+- {{embed [[Paper: Et Tu Alexa? Commodity WiFi Devices as Adversarial Motion Sensors]]}}
+- {{embed [[Paper: IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic]]}}
+- {{embed [[Paper: Peek-a-Boo: Seeing Encrypted Home Activities]]}}
+- {{embed [[Paper: ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes]]}}
+- {{embed [[Paper: IoTAthena: Unveiling IoT Device Activities From Network Traffic]]}}
+- {{embed [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]}}
 -
