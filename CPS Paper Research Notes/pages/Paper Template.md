@@ -6,3 +6,8 @@
 - [[Section 3: Categorization and Criteria]]
 - [[Section 4: Analysis]]
 - [[Section 5: New research directions]]
+- Good quality document (10 points total):
+	- Proper layout including content, figures, references, and page limit.
+	- Easy to follow
+	- Correct grammar/spelling
+	- Clarity and conciseness

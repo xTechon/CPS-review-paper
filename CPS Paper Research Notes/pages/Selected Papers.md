@@ -5,6 +5,5 @@
 - {{embed [[Paper: IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic]]}}
 - {{embed [[Paper: Peek-a-Boo: Seeing Encrypted Home Activities]]}}
 - {{embed [[Paper: ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes]]}}
-- {{embed [[Paper: IoTAthena: Unveiling IoT Device Activities From Network Traffic]]}}
 - {{embed [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]}}
 - {{embed [[Paper: Your Smart Home Can't Keep a Secret: Automated Fingerprinting]]}}

@@ -1,2 +1,12 @@
 - Includes [[Background papers]]
--
+- Provide relevant background information (10 points total)
+	- Explanation of background information which would be necessary for a computer
+	  security researcher who doesn’t specialize in the topic to understand the review (5)
+	- Correct background resources and information (5)
+- What do I need to describe for this paper
+	- What would be referred to smart homes and how that differs from other IoT applications
+	- Typical communication protocols for smart homes
+		- [[ZigBee]]
+		- Wifi
+		- BLE (Bluetooth Low Energy)
+	- The kinds of devices commonly used in smart homes
