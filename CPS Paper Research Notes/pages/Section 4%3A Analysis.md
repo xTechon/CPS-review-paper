@@ -11,3 +11,5 @@
 	  side channels). Note that we do not expect you to know the entire body of research on
 	  the topic, but there should not be an excessive number of papers that contradict your
 	  takeaway claim (10 points)
+- Submitted text
+	- Much of the existing research in regard to Smart Home vulnerability rely more on spoofing attacks

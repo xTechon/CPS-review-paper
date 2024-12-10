@@ -4,7 +4,6 @@ source:: [ACM](https://dl.acm.org/doi/10.1145/3395351.3399421)
 
 - ![Peek-a-Boo: I see your smart home activities, even encrypted](../assets/Peek-a-Boo_I_see_your_smart_home_activities_even_encrypted_1733442033064_0.pdf) #[[Published 2020]]
 - Summary
-  collapsed:: true
 	- 4 stages to attack:
 		- Device Identification
 		- Device State Detection
@@ -22,3 +21,4 @@ source:: [ACM](https://dl.acm.org/doi/10.1145/3395351.3399421)
 			- Must have knowledge of brand and device type
 - References
 	- [[Paper: Et Tu Alexa? Commodity WiFi Devices as Adversarial Motion Sensors]]
+	- [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]

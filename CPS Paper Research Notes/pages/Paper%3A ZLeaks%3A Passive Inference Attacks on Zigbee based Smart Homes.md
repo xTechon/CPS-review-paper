@@ -22,7 +22,6 @@ source:: [ARXIV](https://arxiv.org/abs/2107.10830)
 			  controlled RF shield and a living smart-home lab. They also validated 
 			  their findings using third-party capture files.
 	- Adversarial Model
-	  collapsed:: true
 		- **Passive Eavesdropping**:
 			- The attacker does not need to be physically present in the network or have 
 			  access to the devices. They can simply listen to the wireless 

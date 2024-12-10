@@ -7,3 +7,5 @@
 - {{embed [[Paper: ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes]]}}
 - {{embed [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]}}
 - {{embed [[Paper: Your Smart Home Can't Keep a Secret: Automated Fingerprinting]]}}
+- {{embed [[Paper: Fingerprinting encrypted voice traffic on smart speakers with Deep Learning]]}}
+-
