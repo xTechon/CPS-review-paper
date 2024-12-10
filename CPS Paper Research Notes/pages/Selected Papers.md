@@ -7,4 +7,4 @@
 - {{embed [[Paper: ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes]]}}
 - {{embed [[Paper: IoTAthena: Unveiling IoT Device Activities From Network Traffic]]}}
 - {{embed [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]}}
--
+- {{embed [[Paper: Your Smart Home Can't Keep a Secret: Automated Fingerprinting]]}}

@@ -32,3 +32,4 @@
 - [[Paper: IoTAthena: Unveiling IoT Device Activities From Network Traffic]]
 - [Smart Tracer Source](https://ieeexplore.ieee.org/document/10229163) relates to the Case of Smart Lights
 - [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]
+- [[Paper: Your Smart Home Can't Keep a Secret: Automated Fingerprinting]]
