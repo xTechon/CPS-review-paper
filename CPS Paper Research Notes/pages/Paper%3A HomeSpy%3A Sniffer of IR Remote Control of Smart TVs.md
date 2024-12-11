@@ -4,7 +4,6 @@ source:: [ACM](https://dl.acm.org/doi/10.5555/3620237.3620492)
 
 - ![HOMESPY:  the invisible sniffer of infrared remote control of smart TVs](../assets/usenixsecurity23-huang_1733346018950_0.pdf)
 - Summary:
-  collapsed:: true
 	- Paper Aims:
 		- Is it possible for an IoT device to sniff smart TV IR remote control signals, even when it is not on the path between TV and controller?
 		- If the IR signals can be sniffed, what can an attacker learn from the signal?
@@ -30,6 +29,7 @@ source:: [ACM](https://dl.acm.org/doi/10.5555/3620237.3620492)
 			- Light sources can interfere
 		- Difficult to find alternatives to in-home TV control
 - References:
+  collapsed:: true
 	- [[Paper: Eavesdropping Vulnerability and Countermeasures in IR Comms for IoT Dev]]
 	- [[Paper: Light Ears: Info Leakage via Smart Lights]]
 	- [[Paper: Peek-a-Boo: Seeing Encrypted Home Activities]]

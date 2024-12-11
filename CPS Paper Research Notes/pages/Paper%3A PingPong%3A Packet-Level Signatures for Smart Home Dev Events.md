@@ -4,12 +4,12 @@ source:: [ARXIV](https://arxiv.org/abs/1907.11797)
 
 - ![Ping Pong: Packet-Level Signatures for Smart Home Device Events](../assets/pingpong_1733785172254_0.pdf)
 - Summary
+  collapsed:: true
 	- **Discovery of New Signatures**:
 		- The authors identified simple packet-level signatures that consist of sequences of packet lengths and directions, which can effectively detect specific device events (e.g., turning a light bulb ON or OFF).
 	- **Automated Extraction**:
 		- PING PONG automates the process of collecting training data by triggering device events and capturing the resulting network traffic. It then extracts request-reply packet pairs, clusters them, and creates longer sequences to form the final signatures.
 	- Adversarial Model
-	  collapsed:: true
 		- two types of adversaries: a WAN sniffer and a Wi-Fi sniffer.
 		- **WAN Sniffer**:
 			- This adversary monitors network traffic between the home router and the ISP network (or beyond). They can inspect the IP headers of all packets but do not have access to the device MAC addresses, which means they cannot identify which specific device has sent the traffic. This type of adversary could include intelligence agencies or ISPs. The WAN sniffer can analyze the overall traffic patterns and infer device activity based on the packet lengths and directions.
@@ -21,7 +21,6 @@ source:: [ARXIV](https://arxiv.org/abs/1907.11797)
 		  signatures and infer user behavior.
 		- even with encryption, the metadata from the network traffic can leak private information about the devices and their activities
 	- Countermeasures
-	  collapsed:: true
 		- **Packet Padding**:
 			- This technique involves adding dummy bytes to packets to obscure the actual packet lengths. By padding packets to a fixed length (e.g., the Maximum Transmission Unit, MTU) or adding a random number of bytes, the attacker’s ability to infer device activity based on packet length is reduced. The paper discusses how packet padding can effectively guard against packet-level signature attacks.
 		- **Traffic Shaping**:

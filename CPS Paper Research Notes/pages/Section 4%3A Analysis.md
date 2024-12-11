@@ -13,3 +13,16 @@
 	  takeaway claim (10 points)
 - Submitted text
 	- Much of the existing research in regard to Smart Home vulnerability rely more on spoofing attacks
+- |Paper|Inference Goal|Attack Vector|Defense|
+  |--|--|--|--|
+  |Homespy|User Behavior|IR signals|Obfuscation, Encryption|
+  |Light Ears|User Behavior|Lightbulb Brightness/Hue|Obfuscation, Access Control|
+  |Wireless Camera Localization|Locate|Camera WIfi Traffic|Rec. Time Rand., Upload Time Rand., Traffic Padding|
+  |Et Tu Alexa|Locate|Wifi Traffic Signals|Mac Rand., Signal Obfuscation (fake packets)|
+  |IoT Beholder|Locate, User Behavior|Wifi Traffic Signals|Spoof Packets, Spoof Traffic|
+  |Peek-A-Boo|User Behavior|Wireless (Mult. Protocols) Traffic Signals|Spoof Traffic|
+  |Zleaks|Device Activity|Zigbee Network Traffic|Decoy (Spoof) Packets, Payload Padding, Periodic Reporting Patterns|
+  |Ping Pong|Device Activty|Wi-Fi Traffic|Packet Padding, Traffic Shaping (Periodic Reporting), Spoof Packets|
+  |HomeMole (Can't keep a secret)|Device Activity|||
+  |Fingerprinting Encrypted Voice Traffic|Device Activity|||
+-

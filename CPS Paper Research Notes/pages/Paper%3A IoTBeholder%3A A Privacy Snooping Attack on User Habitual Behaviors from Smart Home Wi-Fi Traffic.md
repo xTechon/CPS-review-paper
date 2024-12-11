@@ -3,6 +3,7 @@ paper-type::
 source:: [ACM](https://dl.acm.org/doi/abs/10.1145/3580890)
 
 - ![IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic](../assets/3580890_1733441097591_0.pdf)
+id:: 6752233a-d78f-4343-b732-56bf2d46faa1
 - Summary
 	- Estimates location of device inside a user's home (device localization)
 	- **Wi-Fi Based Device Localization**:
@@ -48,6 +49,7 @@ source:: [ACM](https://dl.acm.org/doi/abs/10.1145/3580890)
 		- Have access points inject traffic using spoofed MAC addresses to create noise over the network
 		- The countermeasures may impact device performance
 - References:
+  collapsed:: true
 	- [[Paper: Peek-a-Boo: Seeing Encrypted Home Activities]]
 	- [[Paper: Et Tu Alexa? Commodity WiFi Devices as Adversarial Motion Sensors]]
 - Citations:

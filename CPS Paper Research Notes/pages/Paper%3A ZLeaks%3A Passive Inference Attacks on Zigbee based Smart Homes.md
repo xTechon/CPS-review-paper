@@ -3,7 +3,9 @@ paper-type::
 source:: [ARXIV](https://arxiv.org/abs/2107.10830)
 
 - ![ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes](../assets/ZLeaks_Passive_Inference_Attacks_on_Zigbee_based_Smart_Homes_1733443513652_0.pdf)
+id:: 67523c2f-21d2-4137-8346-290e872c6bb6
 - Summary
+  collapsed:: true
 	- can passively identify devices and events in a Zigbee network by analyzing encrypted traffic
 	- Overview
 	  collapsed:: true
@@ -22,6 +24,7 @@ source:: [ARXIV](https://arxiv.org/abs/2107.10830)
 			  controlled RF shield and a living smart-home lab. They also validated 
 			  their findings using third-party capture files.
 	- Adversarial Model
+	  collapsed:: true
 		- **Passive Eavesdropping**:
 			- The attacker does not need to be physically present in the network or have 
 			  access to the devices. They can simply listen to the wireless 
@@ -40,7 +43,6 @@ source:: [ARXIV](https://arxiv.org/abs/2107.10830)
 			  prioritizes low power consumption and efficiency, inadvertently leads to
 			  significant information leakage that can be exploited by attackers.
 	- Attack information gains
-	  collapsed:: true
 		- **Device Identification**:
 			- The attacker can identify various Zigbee devices in the network, including 
 			  their types (e.g., bulbs, outlets, sensors, door locks) and 
@@ -71,7 +73,6 @@ source:: [ARXIV](https://arxiv.org/abs/2107.10830)
 			  which can serve as unique fingerprints for identifying devices even when
 			  no events are triggered.
 	- Countermeasures
-	  collapsed:: true
 		- **Use of SOC MAC OUI**:
 			- The authors suggest using System on Chip (SOC) manufacturer identifiers as the MAC Organizationally Unique Identifier (OUI) instead of the real manufacturer's identity. This 
 			  change would help obscure the actual manufacturer of the devices, making it more difficult for attackers to identify specific devices.
