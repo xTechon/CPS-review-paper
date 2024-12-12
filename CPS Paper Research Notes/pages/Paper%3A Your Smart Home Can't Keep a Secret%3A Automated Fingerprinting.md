@@ -4,6 +4,7 @@ source:: [ACM](https://dl.acm.org/doi/10.1145/3320269.3384732)
 
 - ![Your Smart Home Can't Keep a Secret: Towards Automated Fingerprinting of IoT Traffic](../assets/Smart_Home_Secret_1733807679992_0.pdf)
 - Summary
+  collapsed:: true
 	- propose a traffic analysis framework called HomeMole
 	- HomeMole can accurately differentiate between device types even in 
 	  complex environments, achieving high accuracy rates (up to 99.2%).
@@ -43,3 +44,4 @@ source:: [ACM](https://dl.acm.org/doi/10.1145/3320269.3384732)
 			- IoT devices could be designed to exhibit more unpredictable behavior in terms of their network communication. For example, devices could periodically change their communication patterns or simulate activity even when they are not in use, making it harder for attackers to draw accurate conclusions from the traffic.
 	- References
 		- [[Paper: Peek-a-Boo: Seeing Encrypted Home Activities]]
+- MAN IN THE MIDDLE ATTACK 😭

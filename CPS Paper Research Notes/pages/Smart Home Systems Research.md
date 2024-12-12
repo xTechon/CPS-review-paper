@@ -34,4 +34,4 @@
 - [[Paper: PingPong: Packet-Level Signatures for Smart Home Dev Events]]
 - [[Paper: Your Smart Home Can't Keep a Secret: Automated Fingerprinting]]
 - [[Paper: Fingerprinting encrypted voice traffic on smart speakers with Deep Learning]]
--
+- [[Paper: The Truman Show: Attack on the Privacy of Smart Homes Through Traffic Analysis]]

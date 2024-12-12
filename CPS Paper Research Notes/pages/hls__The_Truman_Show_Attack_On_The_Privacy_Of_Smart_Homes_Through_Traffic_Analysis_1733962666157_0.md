@@ -1,0 +1,2 @@
+file:: [The_Truman_Show_Attack_On_The_Privacy_Of_Smart_Homes_Through_Traffic_Analysis_1733962666157_0.pdf](../assets/The_Truman_Show_Attack_On_The_Privacy_Of_Smart_Homes_Through_Traffic_Analysis_1733962666157_0.pdf)
+file-path:: ../assets/The_Truman_Show_Attack_On_The_Privacy_Of_Smart_Homes_Through_Traffic_Analysis_1733962666157_0.pdf
